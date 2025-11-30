@@ -1,0 +1,5 @@
+{
+  "name": "ElectroGuard: IoT Motor Monitor",
+  "description": "A professional IoT dashboard for electrical motor monitoring, fault detection, and energy billing analysis using React and Gemini AI.",
+  "requestFramePermissions": []
+}
